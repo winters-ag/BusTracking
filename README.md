@@ -1,4 +1,4 @@
-# BusTracking
+# Real Time Bus Tracking
 This is used for a project regarding tracking real time locations of busses around Boston, MA
 
 # To Run
@@ -12,3 +12,5 @@ Ideally I would like to break this off a bit into multiple JS files to clean it 
 
 
 
+# Licensing
+Licensing information is found in the License.txt file

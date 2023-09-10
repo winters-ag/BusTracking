@@ -23,13 +23,14 @@ function initMap() {
   new google.maps.Marker({
     position: myLatLng,
     map,
-    title: "My location"
+    title: "MIT Campus"
   });
   run();
 }
 
 //this function creates an individual marker
 function addMarker(location) {
+  const busImage = "bus3.png";
   let busLocation = {
     lat: location.attributes.latitude,
     lng: location.attributes.longitude
@@ -37,7 +38,8 @@ function addMarker(location) {
   let marker = new google.maps.Marker({
     position: busLocation,
     map: map,
-    title: location.id
+    title: location.id,
+    icon: busImage
   });
   markers.push(marker);
 }
