@@ -2,7 +2,10 @@
 This is used for a project regarding tracking real time locations of busses around Boston, MA
 
 # To Run
-To run this application you can clone it to your pc. You will need to obtain an API key from google maps. One is not needed for the Boston Busses. You will need to insert that api key where is says YOUR_API_KEY
+To run this application you can clone it to your pc. You will need to obtain an API key from google maps. One is not needed for the Boston Busses. You will need to insert that api key where is says YOUR_API_KEY.
+
+After you have done that you can run the index.html file to see busses around MIT
+
 
 ## Link to Google maps API
 https://developers.google.com/maps/get-started/
