@@ -11,6 +11,7 @@ After you have done that you can run the index.html file to see busses around MI
 https://developers.google.com/maps/get-started/
 
 # Future plans
+
 ## Code Cleanup
 Ideally I would like to break this off a bit into multiple JS files to clean it up, but that will have to come later.
 
