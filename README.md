@@ -2,7 +2,7 @@
 This is used for a project regarding tracking real time locations of busses around Boston, MA. It will update every 15 seconds with a new location of the busses. Previous locations are not stored, so once the map refreshes they are no longer available.
 
 # To Run
-To run this application you can clone it to your pc. You will need to obtain an API key from google maps. One is not needed for the Boston Busses. You will need to insert that api key where is says YOUR_API_KEY.
+To run this application you can clone it to your pc. You will need to obtain an API key from google maps. One is not needed for the Boston Busses. You will need to insert that api key where is says YOUR_API_KEY. This is found in the index.html file
 
 After you have done that you can run the index.html file to see busses around MIT
 
